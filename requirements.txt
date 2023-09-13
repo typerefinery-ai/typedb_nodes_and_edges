@@ -1,0 +1,8 @@
+colorama==0.4.6
+grpcio==1.58.0
+loguru==0.7.2
+parse==1.18.0
+protobuf==3.20.3
+typedb-client==2.18.2
+typedb-protocol==2.18.0
+win32-setctime==1.1.0
